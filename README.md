@@ -1,4 +1,4 @@
-# Project: Topic Clustering Using KMeans
+# Topic Clustering Using KMeans
 
 **Overview**
 
